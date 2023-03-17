@@ -1,9 +1,8 @@
 {
-  "name": "next-tailwind-boilerplate",
-  "description": "a nextjs and tailwindcss boilerplate by themefisher.com",
+  "name": "blendibox/aflmktdigital",
+  "description": "Afiliado - Segredo do Marketing Digital",
   "version": "1.0.1",
   "private": true,
-  "license": "UNLICENSED",
   "scripts": {
     "dev": "node lib/jsonGenerator.js && next dev",
     "build": "node lib/jsonGenerator.js && next build",
