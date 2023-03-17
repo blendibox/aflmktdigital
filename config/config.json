@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "Afiliado - Segredo do Marketing",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/AFILIADO.png"
   },
 
   "settings": {
@@ -12,20 +12,20 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
-    "image": "/images/developer.png",
+    "name": "Afiliado - Segredo do Marketing",
+    "image": "/images/AFILIADO.png",
     "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "bio": " "
   },
 
   "params": {
     "contact_form_action": "#",
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "Copyright © 2023  by [blendibox](https://blendibox.com.br)"
   },
 
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "blendibox",
     "meta_image": "",
     "meta_description": ""
   },
